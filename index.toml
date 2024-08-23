@@ -744,8 +744,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
-
-[[files]]
-file = "resourcepacks/advanced-hook-launchers-retextured.pw.toml"
-hash = "5ee94ab7a97b27110a9a9ee5da3e18679416094b498b6adfc4447bb0a17c9f0e"
-metafile = true

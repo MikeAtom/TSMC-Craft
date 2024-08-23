@@ -1,6 +1,266 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexscaves-client.toml"
+hash = "1eefd201e10925d9ec9f3948032e5bb70a1ac06b5de2eba6e88b2baa4d3fedb6"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "config/fancymenu/assets/icon/16x.png"
+hash = "a9eeecdf0a8351b0288feaecdced280817f0bc587e588e733c03b6f9581de4d3"
+
+[[files]]
+file = "config/fancymenu/assets/icon/32x.png"
+hash = "23c17731e19da9004473d75714232efad20b4901eb93b93b68fb165ce521cb94"
+
+[[files]]
+file = "config/fancymenu/assets/icon/mc.icns"
+hash = "1ae12f17727ba7ac65bd84cc933e605cabf8ef921b2740b16245dd09ad51462d"
+
+[[files]]
+file = "config/fancymenu/assets/img/loading.png"
+hash = "8d1a3c54dfb2017d1700c6472d462f1ffd456d988de04feed622ac7d1bea64d4"
+
+[[files]]
+file = "config/fancymenu/assets/img/odin.jpg"
+hash = "70fcf05a3882516e54206517b6008540ae316deb8be778df1a6cdeeb4075e861"
+
+[[files]]
+file = "config/fancymenu/assets/img/title.png"
+hash = "9810d35bbc99f6d4d83315abc43ca694d317b5391e8580a69347d9f8ca83b7b0"
+
+[[files]]
+file = "config/fancymenu/assets/intro.apng"
+hash = "74c14afd6afc0d8861e48f1607c85cda782141fb0168728c6557534a17a30961"
+
+[[files]]
+file = "config/fancymenu/assets/intro.mp4"
+hash = "3bec01ad481a3949a366614878eaa7f4d25f072bd9d67f898bbc72f25be1e8ff"
+
+[[files]]
+file = "config/fancymenu/assets/music/bgm_main.ogg"
+hash = "99ba149650380de7d233ee33394527a38f81efaea72eead4090e8551504666e9"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "6943d47038eb1083074f60a63c0a3a4f3f9ed9d6b940fc786147df34440025e0"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "03ce169be242646097c633c7e2771a0d9c3cb02c11a11281a59cd24761555c33"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "ae445752c8d8262c9fa1a52238b323ac99ae1874aff8a8d3ab3e2cddcf05532d"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "5a296e92324d1f7d1fabe3cc27cdd11971e2ee3998937627fa8717d12d82da88"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "a9f487c0de941f519686a2c01912ef5fb3e5ee5bfc018c079d32fa4cfd980f6b"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/images/Untitled.png"
+hash = "8d1a3c54dfb2017d1700c6472d462f1ffd456d988de04feed622ac7d1bea64d4"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/images/loading.jpg"
+hash = "4f198eff67994f8dae20862a28870b72b78de93f3027296776c6be18722939d7"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/images/photo_2023-06-11_13-57-47.jpg"
+hash = "124d8f6383da73629c651943cfee609ee3d734f70ccb0c0cc7725c4c5a255f26"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/images/photo_2023-06-15_00-33-59.jpg"
+hash = "92ee7960306d909c039a5661f3250725882b1a34c15f24e2394efa458c79a296"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/images/photo_2023-06-20_21-13-06.jpg"
+hash = "c8230b3c3e99a9912755f88c37cba375725b15de4f4dc705541a8ea15451b835"
+
+[[files]]
+file = "config/fancymenu/slideshows/loading/properties.txt"
+hash = "c5f770f1012fc659b5d1113b2a18b9d7b13bf21dfebc2fb947a0453c750997f5"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (1).jpg"
+hash = "67df841416ca82a789c521f0da4f0ebfdda571e776f4fc73e415f446dcc7851c"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (1).webp"
+hash = "e58db756ab048efd6202a06a34fa6a5d4e1656948af374864e728cca6f39213b"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (10).jpg"
+hash = "270aa33b55e9eccc61a9fec83ed836c2b8effd38d574836147a4d6abdf5d1877"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (11).jpg"
+hash = "0e889e3d848e8239124d73987d733d24e34c2c1322776c0dafad90d4bc446b69"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (12).jpg"
+hash = "3255419f3b49c3e7ae0a5af5aa903a0ade5d175a199f62958fe84a909b1e988a"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (13).jpg"
+hash = "4d0c0fa33d7e5f63b89c65abeaa8a57d9a375c33273a228d339ae46a708f4db9"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (14).jpg"
+hash = "1e3ecc8752a916909b009e91a93490dc1419da53e90cef30e5d13c7187890831"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (15).jpg"
+hash = "8a64d702ee9db116ac76daa425d6762021b57679e90074ca555539f7117c563b"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (16).jpg"
+hash = "f5d6a75f3ff78233e25b473459ffee6b6e32eb1e083872951c7fd8afa44a1090"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (17).jpg"
+hash = "376167337b1a653b23eb3ece5f5012374cab03fabcb0c1b176ddaa5d4ecbfe85"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (18).jpg"
+hash = "6992f79fab03a5959f256dd47b5d9b07f91b42b66252ee112bf8aa6179d9bfb8"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (19).jpg"
+hash = "b510af6ade2ae9a2d59efe0a17a960c3f1d2ecaf1b73a9a39804d405b660baee"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (2).jpg"
+hash = "ac40e2250aa6befa43ed48d853069e4d80ea00581488cbf80b643969d1043763"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (20).jpg"
+hash = "5391d7d0962e2ad4b708e48c1be25de7d9630c2511e255f0611bee7d233e67f4"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (21).jpg"
+hash = "9275455cd5c908bcb77c0190faa9ecb4ff5e92e487bf31a1f82967cb6413ec80"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (22).jpg"
+hash = "bf57762772a6be0039ec01fe49ebf1519ae6a13ede68ba209a4539169f092342"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (23).jpg"
+hash = "2e7af4a551fa3d3361372edb0252f9adaadbe56af443ac856190e9c9db546e7c"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (24).jpg"
+hash = "4cf91c3a5d8320a9ca49d24234228759a846eaddfb7dc826a84bbf8d0ba05568"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (25).jpg"
+hash = "b27312bd20eca0992b1f464c9956daeb3665da33869679b0824e3893a047e52f"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (26).jpg"
+hash = "b20e23e335d4b133ab5c7077b5b6ee1ea41ee4fbf3afd26ebaeedb9324da91c9"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (27).jpg"
+hash = "d377b577ef49543d69436d9cbf57c2b999a1b5484b306d24aa53af6d2098ed32"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (28).jpg"
+hash = "c0c5a66ddcdb2b663ac9fd23104b873d4ed5bb5e3394624dfdf4ce669f2637e2"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (29).jpg"
+hash = "bc363e420b771e2af3a497f59ac30341d59f02694abade2e81a58c19107f433b"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (3).jpg"
+hash = "5eaeec032a52a19d59df26e81f2c79724086429fd51d465f09691811cfa9f3fb"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (4).jpg"
+hash = "b8f326ddbbe24191592111bd7f09c1b9b03f8301a7cdf7d05ad1c30470b71455"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (5).jpg"
+hash = "29fc6aa52d2f148f164b39a510ad4df0de42e46e111cdf65e0909d9991562e4d"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (6).jpg"
+hash = "b02b9804b347ebfbd099a051e80d3268b2cfcfac6688d8105ca6076a824c7aad"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (7).jpg"
+hash = "9bdbce758bfb5e2a3008ba1a5d143081094290a5def25b947445009247604aaa"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (8).jpg"
+hash = "a6a63c2a5822a9b2cc2db860b05286cf99ae0aa03d8c9d27dadb93627859209a"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/images/main_menu-image (9).jpg"
+hash = "927bac0f6b07d9cdb2c734f8331328bf1acf082e9eebb05b0e9ec1e424dbdd57"
+
+[[files]]
+file = "config/fancymenu/slideshows/main_menu/properties.txt"
+hash = "25517f211ea130473fedd503fb87d5dd19d0745bdd25750bae77e0159835b744"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "17052dfcc5cfefe2ab58a7b4b6feecb862bede34aa9fee5a1917ddcce73bd5d0"
 metafile = true
@@ -236,6 +496,11 @@ hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "a49da0eb6aebdcfbd6d3436aaeb23bca3fb47f2c7100adaafe625b929f68013b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "51a755f70e17b92657d34f43b6b2aee4b431d327bf1ff5ac616ded65d935e90e"
 metafile = true
@@ -283,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "75f085526d31557ee2f5f3d8d449c92a1e354775c4c6b50f140caf559f7afe0a"
 metafile = true
 
 [[files]]
@@ -386,6 +656,11 @@ hash = "b69c1c19af97f4076df35977ed504babf1559b0adbfe94414e60130c41b37c9b"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
+metafile = true
+
+[[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
@@ -443,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "57c3760ced2a950dadeeaef161dc0af9c42ce8bbfe296f892f069063cd45d5c2"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
 metafile = true
 
 [[files]]
@@ -546,8 +826,8 @@ hash = "7c334196e474463949d42ea741afe7177f09572bdf50edf51fb7bd90a1093d5e"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "9dc37ece48570647cbdbf4eb98c0c30661cb288f896679b6cfeace4e2b2d2a00"
+file = "mods/physics-mod.pw.toml"
+hash = "d19b05bd40ddad5469d2202cea096c60a0dfb62a0831a6bfbfd9d7a760c51ef6"
 metafile = true
 
 [[files]]
@@ -603,11 +883,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
 metafile = true
 
 [[files]]
@@ -724,3 +999,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "c5fbfa4e0ab5be8ac7be73cd7d859800a6e87daea5c1f5ee4058f6b885ef5e24"

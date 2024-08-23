@@ -606,11 +606,6 @@ hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
-file = "mods/gliders.pw.toml"
-hash = "cb000cdf298c55bffac40d21d720d3ae91d9509486d6ce18a88aae2e596dc6f7"
-metafile = true
-
-[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "5176c8d72c8ff4108822bdf0f315c895a07a45875c6c7efa8b7b58b13ad5eba5"
 metafile = true

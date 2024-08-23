@@ -591,6 +591,11 @@ hash = "daf4bf8371002ed20eb750efd5f7730caa9c751df256086094a3caeefac15f5a"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "b6c95d8076985e66f59f0715f0cac8593dfac72acadbdb67a288f348a1c12a34"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
@@ -598,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "cb000cdf298c55bffac40d21d720d3ae91d9509486d6ce18a88aae2e596dc6f7"
 metafile = true
 
 [[files]]
@@ -866,6 +876,11 @@ hash = "952dd29eff4cf72ea37acda4ba66446a3af792de320f88915a33efb6c3711789"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
 metafile = true
@@ -923,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "15fe2c7181046fe3716ea59059d88d762ada8f6b0530490f6a4d0d4bba6cbfe9"
 metafile = true
 
 [[files]]

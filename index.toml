@@ -331,11 +331,6 @@ hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
 
 [[files]]
-file = "mods/geotagged-screenshots.pw.toml"
-hash = "9db5ac388745e866b15af0b46817cebc912f5c708984eb0851ba07c2e895d0e9"
-metafile = true
-
-[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true

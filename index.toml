@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexscaves-client.toml"
-hash = "1eefd201e10925d9ec9f3948032e5bb70a1ac06b5de2eba6e88b2baa4d3fedb6"
+hash = "e08a0ef9dbf92550caceb7e1f1d46c5ef1003ccdf321b7d9a6121ccf384491bc"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"

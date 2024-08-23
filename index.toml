@@ -176,11 +176,6 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
-metafile = true
-
-[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
@@ -207,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "9def4dc6cecd661fb14486dd2756270ae2020929324f969899c104a7c6cecb74"
+hash = "4d33b23c98b4954f86262251b5ec06dda6e9fa33e819650a2d3e43fd38b80b26"
 metafile = true
 
 [[files]]
@@ -347,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "81394671fcadd8c223ce1e4a68855220aa92f788c80f52bea7ee3a1b4623cf98"
 metafile = true
 
 [[files]]
@@ -388,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/kogtyv-tav.pw.toml"
 hash = "b69c1c19af97f4076df35977ed504babf1559b0adbfe94414e60130c41b37c9b"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
@@ -616,11 +606,6 @@ hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
 metafile = true
 
 [[files]]
-file = "mods/resourcify.pw.toml"
-hash = "41c6ad0844bb3e87ae73e46f8cf61d6f5b0730ddf54ad6711e84e5b2f3b5a96f"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
 metafile = true
@@ -692,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
+hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
 metafile = true
 
 [[files]]

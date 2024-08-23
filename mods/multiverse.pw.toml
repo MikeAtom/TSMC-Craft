@@ -1,0 +1,13 @@
+name = "Into the Multiverse"
+filename = "Multiverse-0.2.0-snapshot.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uh6P9gb1/versions/QDoNWn0E/Multiverse-0.2.0-snapshot.3-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "d678e2d4421b075a947c602092391fb18aaa5ea5"
+
+[update]
+[update.modrinth]
+mod-id = "uh6P9gb1"
+version = "QDoNWn0E"

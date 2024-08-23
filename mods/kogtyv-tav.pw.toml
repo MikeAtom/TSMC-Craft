@@ -1,0 +1,13 @@
+name = "kogtyv-Towny and Village"
+filename = "kogtyv-TownyAndVillage-1.4-Forge-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xXClL8T5/versions/lLPJCu4z/kogtyv-TownyAndVillage-1.4-Forge-1.20.jar"
+hash-format = "sha1"
+hash = "be6a0345a95363929571e541c9d8090da02e23b0"
+
+[update]
+[update.modrinth]
+mod-id = "xXClL8T5"
+version = "lLPJCu4z"

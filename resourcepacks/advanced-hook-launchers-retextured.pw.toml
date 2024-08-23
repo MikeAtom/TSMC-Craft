@@ -1,0 +1,13 @@
+name = "Advanced Hook Launchers Retextured"
+filename = "Vanilla-like Hook Launcher.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1398d61e8ddb092d6f3225ed332c3f72532e8a8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652921
+project-id = 1088781

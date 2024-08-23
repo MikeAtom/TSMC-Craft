@@ -1,0 +1,13 @@
+name = "CreRaces"
+filename = "creraces-1.20.1-b1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ekeYhQOi/versions/FKsby217/creraces-1.20.1-b1.8.jar"
+hash-format = "sha1"
+hash = "914573db4ebab5708a2283e431d9b8702d14840d"
+
+[update]
+[update.modrinth]
+mod-id = "ekeYhQOi"
+version = "FKsby217"

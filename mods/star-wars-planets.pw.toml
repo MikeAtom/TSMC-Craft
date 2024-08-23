@@ -1,0 +1,13 @@
+name = "Star Wars Planets"
+filename = "swplanets-forge-1.20.1-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgQirvDi/versions/sGZ3lsmM/swplanets-forge-1.20.1-1.4.4.jar"
+hash-format = "sha1"
+hash = "afc930a7e3c9d03c25c4d3f0b39a901ed1dd2d16"
+
+[update]
+[update.modrinth]
+mod-id = "sgQirvDi"
+version = "sGZ3lsmM"

@@ -1,0 +1,13 @@
+name = "Ad Astra Delight"
+filename = "adastradelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8gylzbLw/versions/ejjRO55d/adastradelight-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "a3dbd122ffd6a6dd0fa6670ad0e96cc67efda590"
+
+[update]
+[update.modrinth]
+mod-id = "8gylzbLw"
+version = "ejjRO55d"

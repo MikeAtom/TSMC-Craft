@@ -1,0 +1,13 @@
+name = "TSMC-Craft"
+author = "MikeAtom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a0e0a5694306a09a7d3522a1a9d79b535b68b118c89a5c7485fa40bc9d8c6434"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Naturalist Delight"
+filename = "naturalistdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTN4haNS/versions/fdyPy1ak/naturalistdelight-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "01d2dde72b42235f659ed5b8263f3b5d7f309473"
+
+[update]
+[update.modrinth]
+mod-id = "LTN4haNS"
+version = "fdyPy1ak"

@@ -1,0 +1,13 @@
+name = "CasinoCraft"
+filename = "CasinoCraft_1.20.1_v24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "613f6bcc6bd6cba4d428996f5f2b2c14922679b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5355615
+project-id = 243471

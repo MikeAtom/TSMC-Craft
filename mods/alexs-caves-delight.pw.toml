@@ -1,0 +1,13 @@
+name = "Alex's Caves Delight"
+filename = "alexscavesdelight-1.0.11-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c9CEGwyC/versions/g5XUgPWy/alexscavesdelight-1.0.11-1.20.1.jar"
+hash-format = "sha1"
+hash = "dc3ecc3f2f0840484d8b429e224802e263ee4919"
+
+[update]
+[update.modrinth]
+mod-id = "c9CEGwyC"
+version = "g5XUgPWy"

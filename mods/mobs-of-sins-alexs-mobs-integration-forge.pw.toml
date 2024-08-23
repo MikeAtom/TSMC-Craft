@@ -1,0 +1,13 @@
+name = "Mobs of Sins: Alex's Mobs Integration [Forge]"
+filename = "MobsOfSins-v0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0754185ff945a217b395d5288c43c32be6fd8806"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4863123
+project-id = 930470

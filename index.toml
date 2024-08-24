@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -476,6 +476,11 @@ hash = "d1603c45c1d7d140f03a66369f4ff73d7395d2a4db1f515a822b638c984a4d99"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "59386dc34fb313a0d549ba3671118a2e19c912bcf2a876d1db06da0f52d923ac"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "9880616d03a44d016ab61e64116ad70b3ee4d91c6ae34a21a5f1a9be3412ba24"
 metafile = true
 
 [[files]]
@@ -516,6 +526,11 @@ hash = "7649eb945d320486c8862197130ac0d5052254fe791d13fec0b6aaacf56381e2"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "09495ae6706b59dab33e6d32c68707cc6ec11e462d9027c1e6e3884e697fe241"
 metafile = true
@@ -531,8 +546,8 @@ hash = "b3646d2ca37ec2b5c5d1a21cf09a589db0791558c7c670c6c92338af0db5ff6c"
 metafile = true
 
 [[files]]
-file = "mods/endofherobrine.pw.toml"
-hash = "25a3b16f499f152a6cfbb9dd575bd4d1a3f068eff030d0c061f41246a6647352"
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8a9f2ca24bc82f4cd3fb8167ca0fb88412f3496e9d77702b983a6e9cbd3d2640"
 metafile = true
 
 [[files]]
@@ -676,6 +691,11 @@ hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "e03d8beb88b37e5978251a25d9f2c6275fa38ba9297795da8d47ec2a963cbc93"
+metafile = true
+
+[[files]]
 file = "mods/lucky77.pw.toml"
 hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
@@ -803,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "c68c01f2be9eb52a40ed1b51061cfa91676c9830017942642f5afb2c0b239bed"
 metafile = true
 
 [[files]]
@@ -976,6 +1001,11 @@ hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
+file = "mods/theundead.pw.toml"
+hash = "a8c8e5619bb795ed92b4d29053c50ff61b15f0effec91c0f44d6f3643868a6d6"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
 metafile = true
@@ -986,8 +1016,13 @@ hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
 metafile = true
 
 [[files]]
+file = "mods/true-herobrine.pw.toml"
+hash = "6e75d0188ca89dd041b0a8ada5d97c073df336da62bd0b8dc7aa90e32153ac12"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
-hash = "b4d98eff4713f1eebd50081b266d99b8ac11ee4695843f1110e1df02babdafac"
+hash = "c6181c36ead5cc4cb99f2447e0847e1e31ed9a4de54639297b0d517a63dbd76d"
 metafile = true
 
 [[files]]
@@ -997,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
 metafile = true
 
 [[files]]

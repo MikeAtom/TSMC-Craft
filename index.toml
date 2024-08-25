@@ -58,7 +58,7 @@ hash = "6943d47038eb1083074f60a63c0a3a4f3f9ed9d6b940fc786147df34440025e0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "03ce169be242646097c633c7e2771a0d9c3cb02c11a11281a59cd24761555c33"
+hash = "f9f42c9133aea303ad04bd57d7e2fe3afebcdbe50001832b88a6a63c9feb706f"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]

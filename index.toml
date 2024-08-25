@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
 metafile = true
 
 [[files]]
@@ -623,11 +623,6 @@ metafile = true
 [[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "b789d602e55f28436a4c28ebd9c2b5785591dba120c06041b895e83902e4d3ae"
-metafile = true
-
-[[files]]
-file = "mods/footprintparticle.pw.toml"
-hash = "5a3cd32cee9029f9b6a10c885c49676207bfd8dd12d49e3e6eaa3ab22774ef0c"
 metafile = true
 
 [[files]]

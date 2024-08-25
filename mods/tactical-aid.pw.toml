@@ -1,0 +1,13 @@
+name = "Tactical Aid"
+filename = "tactical_aid-1.20.1-v1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aR7rykgE/versions/usTFPP6a/tactical_aid-1.20.1-v1.3.9.jar"
+hash-format = "sha1"
+hash = "12aab55beed113ee6eaaa41a612c1fb74818144e"
+
+[update]
+[update.modrinth]
+mod-id = "aR7rykgE"
+version = "usTFPP6a"

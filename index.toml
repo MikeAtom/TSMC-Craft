@@ -401,11 +401,6 @@ hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
 
 [[files]]
-file = "mods/butchers-delight.pw.toml"
-hash = "8e7e93cd26f6b96f15fcfa72ebfc468b31fdbb3ed6c5956bffef700f38bec05c"
-metafile = true
-
-[[files]]
 file = "mods/canary.pw.toml"
 hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
@@ -626,6 +621,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "b789d602e55f28436a4c28ebd9c2b5785591dba120c06041b895e83902e4d3ae"
+metafile = true
+
+[[files]]
 file = "mods/footprintparticle.pw.toml"
 hash = "5a3cd32cee9029f9b6a10c885c49676207bfd8dd12d49e3e6eaa3ab22774ef0c"
 metafile = true
@@ -828,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/multi-mine.pw.toml"
+hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
 metafile = true
 
 [[files]]
@@ -1051,6 +1056,11 @@ hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
+file = "mods/tactical-aid.pw.toml"
+hash = "0bd2c7c35f3fc8cfb6904a0ce07ceda812ebf08ef4118128e5850c2aaab16674"
+metafile = true
+
+[[files]]
 file = "mods/tarot-cards.pw.toml"
 hash = "c97b4e4728f606ed66d63b4101cd6cd5e7527d69042e76e36c104e9e72a6fefc"
 metafile = true
@@ -1093,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "c6181c36ead5cc4cb99f2447e0847e1e31ed9a4de54639297b0d517a63dbd76d"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "8f24f728e1e69034beb9fe44cf2b2e0b40147a4ed5559f38cc851edcb43ceaab"
 metafile = true
 
 [[files]]

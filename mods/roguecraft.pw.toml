@@ -1,0 +1,13 @@
+name = "RogueCraft"
+filename = "roguecraft-1.20.1-b1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktuZ0TpD/versions/xzAPOmcN/roguecraft-1.20.1-b1.1.1.jar"
+hash-format = "sha1"
+hash = "46996d8ace7c90c3e18a1f4de6a3192d16f54288"
+
+[update]
+[update.modrinth]
+mod-id = "ktuZ0TpD"
+version = "xzAPOmcN"

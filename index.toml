@@ -286,6 +286,11 @@ hash = "a25460d8b5bc3cfb53d80fbd7fc3618e87a028ec6180c5d578f8c890d2848637"
 metafile = true
 
 [[files]]
+file = "mods/advancement-count.pw.toml"
+hash = "d389e9a06755eac08035cb8ad4af60822b830bfdf132c20aee97c76add7c38a2"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "34b19d5e2f564339152197ab80c46252a7f1dfc8cdb221af8388001689ed6379"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
+metafile = true
+
+[[files]]
+file = "mods/advancement-screenshot.pw.toml"
+hash = "6a6edb891fa6171c400c0f9d9ba11a9ae7c819dd946e6a05fa83593827a08d45"
 metafile = true
 
 [[files]]
@@ -416,6 +426,11 @@ hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "3cdf0c628239ca09dd0378d39008729b17d4916aeed9e60c0b2d75f5bcc3b4be"
 metafile = true
@@ -433,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
 metafile = true
 
 [[files]]
@@ -531,6 +551,11 @@ hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "094f4efe0dc66255c812c6f41d489c63468c724319af7b6a94abb9c2abc7aed5"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "09495ae6706b59dab33e6d32c68707cc6ec11e462d9027c1e6e3884e697fe241"
 metafile = true
@@ -546,6 +571,11 @@ hash = "b3646d2ca37ec2b5c5d1a21cf09a589db0791558c7c670c6c92338af0db5ff6c"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "209650d6b1278001a2e082735d7d6acbe363cf5ca8d04f2ee86d1074be9f8186"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8a9f2ca24bc82f4cd3fb8167ca0fb88412f3496e9d77702b983a6e9cbd3d2640"
 metafile = true
@@ -558,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "8d859300d59aa4e48a44416df8a0e82c7af663e9dcc0fec0bdfb1452ff7a48ae"
 metafile = true
 
 [[files]]
@@ -618,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
+metafile = true
+
+[[files]]
+file = "mods/golf.pw.toml"
+hash = "af34a974510ec6e5a369022170e173951d06e79d442295b0c533b165af564618"
 metafile = true
 
 [[files]]
@@ -906,11 +946,6 @@ hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
 metafile = true
 
 [[files]]
-file = "mods/reskin.pw.toml"
-hash = "a0e8d851e045d16c8e3911fd7013be66397f60877921352c20eb3b10ec98d4e2"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -921,8 +956,18 @@ hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
 metafile = true
 
 [[files]]
+file = "mods/roguecraft.pw.toml"
+hash = "29137be5baa8113c3c4d99579085d28aaa2719ce48d71646adb823c87c519f95"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "528a4535856668e60a767cbcc9ff63457e93f404f726690754523fcdf1e5325f"
 metafile = true
 
 [[files]]
@@ -936,8 +981,18 @@ hash = "2781e35de4c1cc8534d542b6d2060b14b6ab2e0ed2fe6a5586590a430d8afc1a"
 metafile = true
 
 [[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "9ba55dd2e6c96446a48460b1f0ecb21022fe5a76441b74f0fd1a48535b16d0c9"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d68e429bf912389d640bfe66ad9b1317bb6cf5e304625cad4f1da8cd99df22c5"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "88501e855501a60e618e7432318b25b6d594810f2c1375f24794703117fc3439"
 metafile = true
 
 [[files]]
@@ -971,8 +1026,18 @@ hash = "5828649e77f5faa8fee3d71b95dbc4babcc85499bb686a998932a4e0305c2958"
 metafile = true
 
 [[files]]
+file = "mods/stardew-fishing.pw.toml"
+hash = "f46d7340e2366ad9d3bd2629607a641a7cbbfa829287d28deddc920fc517ddf5"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
 metafile = true
 
 [[files]]
@@ -988,6 +1053,11 @@ metafile = true
 [[files]]
 file = "mods/tarot-cards.pw.toml"
 hash = "c97b4e4728f606ed66d63b4101cd6cd5e7527d69042e76e36c104e9e72a6fefc"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "48e5c5fe512a216ff65dc75ad6655cc5321f0b8cea9201a80b4dd6824f96ff1b"
 metafile = true
 
 [[files]]

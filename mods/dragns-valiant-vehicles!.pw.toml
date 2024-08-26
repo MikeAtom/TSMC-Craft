@@ -1,0 +1,13 @@
+name = "DragN's Valiant Vehicles!"
+filename = "DragN_Vehicles-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vUaF67Ot/versions/sMM21r0T/DragN_Vehicles-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "33c9663bcb79168a86c6ada28fa71a26ee4a4019"
+
+[update]
+[update.modrinth]
+mod-id = "vUaF67Ot"
+version = "sMM21r0T"

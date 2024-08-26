@@ -311,6 +311,11 @@ hash = "ca7b426c4d587d6180fdfcf3e2e20476d8cb74a8dd81748b47453402220d7b65"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-dimension.pw.toml"
+hash = "36a8f48eb975a5dff26373b7a222b254315959eaf0d579d1d531a632aa96bbdb"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
 metafile = true
 
 [[files]]
@@ -511,6 +521,16 @@ hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-dungeons.pw.toml"
+hash = "1bbef590cb21c0a5938d60c06d988866a61dc9b01825a32fc97608ba439018ea"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-threads.pw.toml"
+hash = "b8c4528cc3185001451be70517d012541d300f9b2ad584a9f18a3070207079f6"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
@@ -518,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "9880616d03a44d016ab61e64116ad70b3ee4d91c6ae34a21a5f1a9be3412ba24"
+metafile = true
+
+[[files]]
+file = "mods/dragns-valiant-vehicles!.pw.toml"
+hash = "6fd282fcab4b7f4a1e0acd7cf8cc3d19a5f4c64cd8cae7c51ba291024259ea65"
 metafile = true
 
 [[files]]
@@ -641,6 +666,11 @@ hash = "b6c95d8076985e66f59f0715f0cac8593dfac72acadbdb67a288f348a1c12a34"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
@@ -653,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/golf.pw.toml"
 hash = "af34a974510ec6e5a369022170e173951d06e79d442295b0c533b165af564618"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
@@ -693,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
+metafile = true
+
+[[files]]
+file = "mods/jamd.pw.toml"
+hash = "334068286ec4f418b023210341b1c12fa851f2d2de3c4130383a9f96d1c5a785"
 metafile = true
 
 [[files]]
@@ -818,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3fd5f43eca79d4843d66d2fde8f5285ad24a6d5ae5ae239f23e2363823a4f50e"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "2405ba9aea934ceae3cc9b91d0634057aa53c9a7758a5513872ed047c1459317"
 metafile = true
 
 [[files]]
@@ -1081,6 +1126,11 @@ hash = "a8c8e5619bb795ed92b4d29053c50ff61b15f0effec91c0f44d6f3643868a6d6"
 metafile = true
 
 [[files]]
+file = "mods/thorium-reactors.pw.toml"
+hash = "0c2d8b592add5417209ab30b91b9307c3b56ac5de16af83ebaeaf41b8f49fb84"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
 metafile = true
@@ -1088,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
+metafile = true
+
+[[files]]
+file = "mods/trenzalore.pw.toml"
+hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
 metafile = true
 
 [[files]]

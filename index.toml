@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 metafile = true
 
 [[files]]
@@ -1048,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns-brass.pw.toml"
+hash = "87e32677839863a30f6cf6662927f40f40e5dfe322d106e0962337f9bb6fe179"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "General Essentials Pack"
+filename = "GEP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I9e7ugdK/versions/1T60DCc6/GEP.jar"
+hash-format = "sha1"
+hash = "ee0c9789c023a9794bfb80c59ad5fffe1efc38ee"
+
+[update]
+[update.modrinth]
+mod-id = "I9e7ugdK"
+version = "1T60DCc6"

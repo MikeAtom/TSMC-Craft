@@ -261,6 +261,11 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "5d6360d35071f9ad71b23380b2a855612c1e09cd438d71feb3352ab8c9d96f94"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "17052dfcc5cfefe2ab58a7b4b6feecb862bede34aa9fee5a1917ddcce73bd5d0"
 metafile = true
@@ -521,6 +526,11 @@ hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
+file = "mods/desert-behemoths-sandworms!.pw.toml"
+hash = "93c1e1afca2f3409187b1ef3555609302d1876178452cba7053be86fc842bbce"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-dungeons.pw.toml"
 hash = "1bbef590cb21c0a5938d60c06d988866a61dc9b01825a32fc97608ba439018ea"
 metafile = true
@@ -641,6 +651,16 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/fexcraft-common-library.pw.toml"
+hash = "09b12d3f5b33dcad5d2cd7f458258af6a1cc7f68e65cfa41ed91446d22e2a33a"
+metafile = true
+
+[[files]]
+file = "mods/fexs-vehicle-mod.pw.toml"
+hash = "6dcc59fbdfcafa77401ccee41daafae3ca0f94b6c2816ab905513251ea4f072e"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
@@ -661,6 +681,11 @@ hash = "daf4bf8371002ed20eb750efd5f7730caa9c751df256086094a3caeefac15f5a"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "b6c95d8076985e66f59f0715f0cac8593dfac72acadbdb67a288f348a1c12a34"
 metafile = true
@@ -671,8 +696,18 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
+file = "mods/fvp.pw.toml"
+hash = "b4567ffb727d6df5d6f863acf59f54ddf4f92affafbfa9b734180fdb3d0985ed"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
+metafile = true
+
+[[files]]
+file = "mods/gep.pw.toml"
+hash = "5efe43d23cc901f88cdc46eeeee408609e824e47912a58eb9c75fb0fa592269d"
 metafile = true
 
 [[files]]
@@ -768,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "e03d8beb88b37e5978251a25d9f2c6275fa38ba9297795da8d47ec2a963cbc93"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "c2b67fa89d8f9b24bbc35079d1759aa43213904a8b558e10090115fc4b464b8c"
 metafile = true
 
 [[files]]
@@ -1011,6 +1051,11 @@ hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]
+file = "mods/scorched-guns.pw.toml"
+hash = "3958771fd70ada50924b484562c66b2889a6b90da5441efe3f06278afa871843"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "528a4535856668e60a767cbcc9ff63457e93f404f726690754523fcdf1e5325f"
 metafile = true
@@ -1184,6 +1229,18 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
+
+[[files]]
+file = "schematics/Hindenburg.litematic"
+hash = "13c2bcba6279eff2bc1a21165d50ecf8dead86a1f3f37a2ded83b13c999ae42b"
+
+[[files]]
+file = "schematics/Khrushchevka.litematic"
+hash = "05cfc423e923717692eaf945e1871e41031b0530b0a1400ee210d43e6edf51cc"
+
+[[files]]
+file = "schematics/Nuclear_Power_Plant.litematic"
+hash = "0d91b29d2dd100204ab3a54d40cac14575881275657bfc0bcc9fdc000973c394"
 
 [[files]]
 file = "servers.dat"

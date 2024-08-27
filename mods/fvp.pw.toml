@@ -1,0 +1,13 @@
+name = "Fex's Vehicle pack"
+filename = "FVP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gkNfyUFH/versions/PedMMS3W/FVP.jar"
+hash-format = "sha1"
+hash = "48cfe9c61b592f2d87f7a24ef7e186d7654fea8a"
+
+[update]
+[update.modrinth]
+mod-id = "gkNfyUFH"
+version = "PedMMS3W"

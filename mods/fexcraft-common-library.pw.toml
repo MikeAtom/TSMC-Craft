@@ -1,0 +1,13 @@
+name = "Fexcraft Common Library"
+filename = "fcl-20.10c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsnSr7bC/versions/3j0bQJtB/fcl-20.10c.jar"
+hash-format = "sha1"
+hash = "26adb20f94881879181e18139056003709fee47d"
+
+[update]
+[update.modrinth]
+mod-id = "FsnSr7bC"
+version = "3j0bQJtB"

@@ -726,11 +726,6 @@ hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
-file = "mods/golf.pw.toml"
-hash = "af34a974510ec6e5a369022170e173951d06e79d442295b0c533b165af564618"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
@@ -1127,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "15fe2c7181046fe3716ea59059d88d762ada8f6b0530490f6a4d0d4bba6cbfe9"
+hash = "13bb5e5c519f262a1daf947e0f83f6adfdbce9f041d0ff9e210a39a998dd8be3"
 metafile = true
 
 [[files]]

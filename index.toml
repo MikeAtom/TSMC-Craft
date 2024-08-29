@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "3cdf0c628239ca09dd0378d39008729b17d4916aeed9e60c0b2d75f5bcc3b4be"
+hash = "82de5845ba726131d003e6111e5686e92c36746753d255b117c77628f040846a"
 metafile = true
 
 [[files]]
@@ -528,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/desert-behemoths-sandworms!.pw.toml"
 hash = "93c1e1afca2f3409187b1ef3555609302d1876178452cba7053be86fc842bbce"
+metafile = true
+
+[[files]]
+file = "mods/diet.pw.toml"
+hash = "362fbf12eb76dbb98395c244aac06e01c24676feb62b470b4b1b1554087e533a"
 metafile = true
 
 [[files]]
@@ -688,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "b6c95d8076985e66f59f0715f0cac8593dfac72acadbdb67a288f348a1c12a34"
+metafile = true
+
+[[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "d05e2f4aab7613c0beaa194c7d696f849963f573224a6856b38a4df3bc07c959"
 metafile = true
 
 [[files]]
@@ -1016,6 +1026,11 @@ hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
 
 [[files]]
+file = "mods/rats.pw.toml"
+hash = "835f492eb562981d516fcce7b6784b8b83f81255166eb11bac1205a35dd32b0d"
+metafile = true
+
+[[files]]
 file = "mods/refined-polymorphism.pw.toml"
 hash = "952dd29eff4cf72ea37acda4ba66446a3af792de320f88915a33efb6c3711789"
 metafile = true
@@ -1178,6 +1193,11 @@ metafile = true
 [[files]]
 file = "mods/thorium-reactors.pw.toml"
 hash = "0c2d8b592add5417209ab30b91b9307c3b56ac5de16af83ebaeaf41b8f49fb84"
+metafile = true
+
+[[files]]
+file = "mods/tobacconist.pw.toml"
+hash = "a9c5f96c68ccf0764042eabf44a7938ee33de6799fd2988f3339d4818345dc7a"
 metafile = true
 
 [[files]]

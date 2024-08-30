@@ -371,11 +371,6 @@ hash = "e0cec1890eab39853284ee40d436404df73e53de66ddcff8629cee69ac46d0a9"
 metafile = true
 
 [[files]]
-file = "mods/autohud.pw.toml"
-hash = "589a356074d9328e81d13f7de833130e12986f8b1d1b37ec846b101d58b0bf28"
-metafile = true
-
-[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
@@ -1303,11 +1298,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
 metafile = true
 
 [[files]]

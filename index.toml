@@ -361,6 +361,21 @@ hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
 metafile = true
 
 [[files]]
+file = "mods/atmospheric-phenomena.pw.toml"
+hash = "d49eb9fe23eb5b60b4216807c051e5522f11d428278e6dfdf5e6e04685190699"
+metafile = true
+
+[[files]]
+file = "mods/attributes.pw.toml"
+hash = "e0cec1890eab39853284ee40d436404df73e53de66ddcff8629cee69ac46d0a9"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "589a356074d9328e81d13f7de833130e12986f8b1d1b37ec846b101d58b0bf28"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
@@ -438,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
 
 [[files]]
@@ -523,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
+metafile = true
+
+[[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "af8393b2677ac40ef2e8014b1c2f0714e42bc45095267e417b6729491cd0f22b"
 metafile = true
 
 [[files]]
@@ -676,6 +701,11 @@ hash = "b789d602e55f28436a4c28ebd9c2b5785591dba120c06041b895e83902e4d3ae"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a210f5b020288a1bd32e22e3f6e53bd3e2a6e8d3221fdff6fd3d5a037f6d9d0"
 metafile = true
@@ -683,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/forgematica.pw.toml"
 hash = "daf4bf8371002ed20eb750efd5f7730caa9c751df256086094a3caeefac15f5a"
+metafile = true
+
+[[files]]
+file = "mods/fragile-torches.pw.toml"
+hash = "cf5f6e8ccb3c217fff97ffef4554d1de6cd3066519a33729a8e0cebaae30a1a7"
 metafile = true
 
 [[files]]
@@ -766,6 +801,11 @@ hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "bcc129101643d0643d4a52ec72bd7775ac8df5193b3becd625ed964f11c6abd8"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
 metafile = true
@@ -783,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "712ac3e3cca6cd0478dfeafac21f7926dba0c54763144ae168ed200d894e6464"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 metafile = true
 
 [[files]]
@@ -821,8 +866,8 @@ hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "eda00658aae72ce58c839caade7a081cb57c7194ffea8d8bc73a57303b2e94ef"
+file = "mods/luckys-smarter-mobs.pw.toml"
+hash = "2806288c73b0382e1dfa1765131385e02e634349d69748fd6b71bb2377a6436f"
 metafile = true
 
 [[files]]
@@ -926,6 +971,11 @@ hash = "782476f6747e7e08656f470f4a4648c0859f12f795a6d318fea24aa9b08ea7e8"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "6529f55293851714d814fa53a71b8af9182fbaae0f77313efe241f89ca5c485d"
+metafile = true
+
+[[files]]
 file = "mods/naturalist-delight.pw.toml"
 hash = "9d766b19df81c436aa3078576e9d7cf3dd180b50049741bdb886be9a7c0bbc76"
 metafile = true
@@ -1026,6 +1076,11 @@ hash = "835f492eb562981d516fcce7b6784b8b83f81255166eb11bac1205a35dd32b0d"
 metafile = true
 
 [[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "9811ffe5f7f3d3076ca7a08c8a7f1a907cd9442e90c705565baf2e43025310f1"
+metafile = true
+
+[[files]]
 file = "mods/refined-polymorphism.pw.toml"
 hash = "952dd29eff4cf72ea37acda4ba66446a3af792de320f88915a33efb6c3711789"
 metafile = true
@@ -1096,6 +1151,11 @@ hash = "d68e429bf912389d640bfe66ad9b1317bb6cf5e304625cad4f1da8cd99df22c5"
 metafile = true
 
 [[files]]
+file = "mods/skills.pw.toml"
+hash = "8b5f94e929a5d0a4746893f4c5292b6b6dae17181030375760d5ea965a8956a7"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "88501e855501a60e618e7432318b25b6d594810f2c1375f24794703117fc3439"
 metafile = true
@@ -1121,8 +1181,18 @@ hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
+file = "mods/spelunkers-charm-ii.pw.toml"
+hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
+metafile = true
+
+[[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "13bb5e5c519f262a1daf947e0f83f6adfdbce9f041d0ff9e210a39a998dd8be3"
+metafile = true
+
+[[files]]
+file = "mods/spoiled.pw.toml"
+hash = "44da894587263ff0c5452289a7b08fdc97b1b04447eb1a9894c4f856abce0e97"
 metafile = true
 
 [[files]]

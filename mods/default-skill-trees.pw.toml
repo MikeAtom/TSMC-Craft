@@ -1,0 +1,13 @@
+name = "Default Skill Trees"
+filename = "default_skill_trees-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w7YR25f/versions/343TKa5b/default_skill_trees-1.0.jar"
+hash-format = "sha1"
+hash = "26067c62c8b688c0231761c4134d4378d02a7dcc"
+
+[update]
+[update.modrinth]
+mod-id = "4w7YR25f"
+version = "343TKa5b"

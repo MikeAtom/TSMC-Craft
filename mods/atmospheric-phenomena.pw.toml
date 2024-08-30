@@ -1,0 +1,13 @@
+name = "Atmospheric Phenomena"
+filename = "atmospheric_phenomena-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hEzHfaZr/versions/bJyAkPd1/atmospheric_phenomena-1.0.2.jar"
+hash-format = "sha1"
+hash = "77794d12bc02ea899cb64bb70a555eae1c5d2211"
+
+[update]
+[update.modrinth]
+mod-id = "hEzHfaZr"
+version = "bJyAkPd1"

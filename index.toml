@@ -1186,11 +1186,6 @@ hash = "13bb5e5c519f262a1daf947e0f83f6adfdbce9f041d0ff9e210a39a998dd8be3"
 metafile = true
 
 [[files]]
-file = "mods/spoiled.pw.toml"
-hash = "44da894587263ff0c5452289a7b08fdc97b1b04447eb1a9894c4f856abce0e97"
-metafile = true
-
-[[files]]
 file = "mods/star-wars-planets.pw.toml"
 hash = "5828649e77f5faa8fee3d71b95dbc4babcc85499bb686a998932a4e0305c2958"
 metafile = true

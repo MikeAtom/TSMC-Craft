@@ -265,21 +265,6 @@ file = "config/sweaters/player.json"
 hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
-file = "mods/ad-astra-delight.pw.toml"
-hash = "30b9918b7370036c674c2ffa0eef0f6f97629b7d121117f35f0db21380404d2b"
-metafile = true
-
-[[files]]
-file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "c08f966c1e098d7225bea18abe9f4bf376f6266cd1142ec461dc3fa63ce659f1"
-metafile = true
-
-[[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
-metafile = true
-
-[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "fd6af9dc0498d2ea8d43a55a2cfbc4dc5b524c70062dc2a0ff4481a3d5c5dd88"
 metafile = true
@@ -312,26 +297,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
 hash = "af4a24923df4e248cb688ca6267043b71c2bb55aab689037fa986b9037ece182"
-metafile = true
-
-[[files]]
-file = "mods/alexs-caves-delight.pw.toml"
-hash = "d53f8c153e5ebdbbc6a0755c088e758ffbb76e19edd3fced254e4c5b267a47bb"
-metafile = true
-
-[[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs-interaction.pw.toml"
-hash = "e987bd9552b4fd5ec2b47431eccc672f28bbb36d09f512716298a7a2ac0db070"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
@@ -470,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ded75a2dd4ee0ea57454d080652099f759ff222a17c6f7daa86df944daf5ad04"
-metafile = true
-
-[[files]]
-file = "mods/casinocraft.pw.toml"
-hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
 metafile = true
 
 [[files]]
@@ -1083,18 +1043,8 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "cc6bcc0aa4e2b4c4b83c50a7bd73405ac60ba5e09a6bc92fbd9436cc61c10009"
-metafile = true
-
-[[files]]
 file = "mods/minopp.pw.toml"
 hash = "a345331ac54c8442f475a2e5e4127455b5f5efbcd0927b99d1b366d28fb997c5"
-metafile = true
-
-[[files]]
-file = "mods/mobs-of-sins-alexs-mobs-integration-forge.pw.toml"
-hash = "24507e388e7b3df05da2e43ed83189c3514646c8777eb9c7b136f680a9d9468a"
 metafile = true
 
 [[files]]
@@ -1298,16 +1248,6 @@ hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns-brass.pw.toml"
-hash = "87e32677839863a30f6cf6662927f40f40e5dfe322d106e0962337f9bb6fe179"
-metafile = true
-
-[[files]]
-file = "mods/scorched-guns.pw.toml"
-hash = "ca8d27ef699ec4e8b5543669a6f6a1ee2e08430308b1b59820ed31ad9f54d22b"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "528a4535856668e60a767cbcc9ff63457e93f404f726690754523fcdf1e5325f"
 metafile = true
@@ -1343,11 +1283,6 @@ hash = "9ba55dd2e6c96446a48460b1f0ecb21022fe5a76441b74f0fd1a48535b16d0c9"
 metafile = true
 
 [[files]]
-file = "mods/skillcloaks.pw.toml"
-hash = "089debd26d5c1fcc08ed1bfb40e13f1bd5cc44d1f454a0bc9ba645e6b07605a4"
-metafile = true
-
-[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "f2c2ae16f827b11a602033a2af2204a71288670ccee44c83e6d3eb270f14d6da"
 metafile = true
@@ -1365,11 +1300,6 @@ metafile = true
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "2545158a1f23024a170302eabd6e28e05e989d16d9213ce25d4af8e5cc8b4df6"
-metafile = true
-
-[[files]]
-file = "mods/sons-of-sins.pw.toml"
-hash = "05d78b6f44b964eb5f77517d789cd25eab603486aa45b67d6697a458d17666fd"
 metafile = true
 
 [[files]]
@@ -1395,11 +1325,6 @@ metafile = true
 [[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "b15e7f1a186e58bb355d926cf082b0175568a1d90cd6c5025d9c199ded248059"
-metafile = true
-
-[[files]]
-file = "mods/star-wars-planets.pw.toml"
-hash = "30975d704e67d5fb97b1a8d8cc76b185cb1769325f15cafac409f4aafe34f47b"
 metafile = true
 
 [[files]]
